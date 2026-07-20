@@ -1,0 +1,17 @@
+# Indian Visa Assistant
+
+Windows application for extracting passport, national ID and medical invitation data for Indian Medical Visa processing.
+
+## Features
+
+- Read Passport MRZ
+- Read National ID
+- Read Medical Invitation
+- Validate all data
+- Generate M1 & M2
+- Export Word
+- Export Excel
+- Export PDF
+- Local SQLite Database
+
+Version 1.0
