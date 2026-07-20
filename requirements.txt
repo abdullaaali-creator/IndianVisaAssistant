@@ -1,0 +1,14 @@
+PySide6
+opencv-python
+easyocr
+passporteye
+python-docx
+openpyxl
+reportlab
+Pillow
+numpy
+pandas
+pytesseract
+pdf2image
+pymupdf
+sqlalchemy
